@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:7F7FD5,50:86A8E7,100:91EAE4&amp;height=220&amp;section=header&amp;text=Krishna%20Krishnakumar&amp;fontSize=45&amp;fontColor=ffffff&amp;animation=fadeIn&amp;desc=Full%20Stack%20Developer%20%7C%20AI%20%26%20ML%20Enthusiast&amp;descAlignY=58" />
-</p>
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:7F7FD5,50:86A8E7,100:91EAE4&height=220&section=header&text=Krishna%20Krishnakumar&fontSize=45&fontColor=ffffff&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20AI%20%26%20ML%20Enthusiast&descAlignY=58)
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=B.Tech+CSE+Student;Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Open+Source+Contributor" />
