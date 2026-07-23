@@ -48,19 +48,11 @@
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kriishna-44E&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kriishna-44&theme=tokyonight"/>
 </p>
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kriishna-44&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=kriishna-44&theme=tokyonight&row=1&column=7"/>
 </p>
 
 ---
