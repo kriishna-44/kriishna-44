@@ -42,15 +42,13 @@
 ## 📊 GitHub Statistics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=kriishna-44&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=kriishna-44&include_all_commits=true&theme=radical"/>
+  <br>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=kriishna-44&layout=compact&langs_count=10&theme=radical"/>
 </p>
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=kriishna-44&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kriishna-44&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
